@@ -1,6 +1,20 @@
-## 常用的抓包方式
+- [常用的抓包方式](#-------)
+  * [Burp suite抓包](#burp-suite--)
+    + [1. Burpsuite 抓WEB HTTPS包](#1-burpsuite--web-https-)
+    + [2. Burpsuite 抓包微信小程序](#2-burpsuite--------)
+      - [2.1 Clash + Burp suite](#21-clash---burp-suite)
+      - [2.2 Proxifier 抓包小程序](#22-proxifier------)
+    + [3. Burpsuite APP抓包](#3-burpsuite-app--)
+      - [3.1 模拟器必看](#31------)
+      - [3.2 环境](#32---)
+      - [3.3 模拟器设置代理](#33--------)
+      - [3.4 Https 抓包](#34-https---)
+        * [3.4.1 **安装证书**](#341---------)
+        * [3.4.2 单向证书绕过](#342-------)
+          + [Xposed + JustTrustMe](#xposed---justtrustme)
+          + [手动安装证书](#------)
 
-
+# 常用的抓包方式
 
 ## Burp suite抓包
 
